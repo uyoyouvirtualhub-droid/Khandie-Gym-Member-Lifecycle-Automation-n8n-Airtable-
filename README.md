@@ -23,9 +23,6 @@ due to lack of timely follow-up.
 4. Members approaching expiry receive automated reminder emails
 5. On renewal, membership dates are updated automatically in Airtable
 
-## Screenshot
-![Khandie Gym Workflow](./workflow-screenshot.png)
-
 ## Key Concepts Demonstrated
 - Tally form → n8n → Airtable pipeline
 - Luxon date expressions for expiry calculation
